@@ -26,5 +26,4 @@ This project is a comprehensive pet adoption platform that allows users to conne
 
 ## Live Site
 [Visit the live site here](https://rescuelink.vercel.app/)
-## Server Site Github Repository 
-[Visit Repository here](https://github.com/Rahidapriya/Pet-Adoption-Platform-Servers-Site) 
+
